@@ -1,0 +1,25 @@
+1.) False: Some algorithms have a more efficient runtime complexity (big O) ie: N^2
+
+2.) True: f(n) = O (g(n)) n in a way being a measure of time complexity(iterations or steps)
+
+3.)	False: Big O is really "worst case-scenario" and an upper bound of efficiency.
+
+4.) False: The efficiency of an algorithm is completely independent of computer architecture.
+
+5.) True: No matter what n is, the instructions are completed with these 10 lines of code.
+
+6.) (b) = n^3 Three nested loops will iterate n * n * n times.
+
+7.) (c) = sequential Goes through and checks every value until a match is found.
+
+8.) (b) = n/2 times as n is largest and 1 is smallest(sum of indices divided by n)  or (n + 1)/2
+
+9.) n elements is worst case because that would be the "largest" index.
+
+10.) The data must be sorted as a pre-condition to using a binary search.
+
+11.) The constant is negligible when referring to the algorithm independently of the system.
+
+12.) This matters because there can be circumstances where efficiency is required for larger
+values of n. ie: 2^n vs. 5n where n = (2^n)/5 in this case 5n is the better option overall
+and specifically for scalability. 
